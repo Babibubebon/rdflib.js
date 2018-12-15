@@ -6,7 +6,7 @@ const Literal = require('./literal')
 const log = require('./log')
 const NamedNode = require('./named-node')
 const Node = require('./node')
-const Serializer = require('./serialize')
+const Serializer = require('./serializer')
 const Statement = require('./statement')
 const Variable = require('./variable')
 
